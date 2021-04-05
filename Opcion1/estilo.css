@@ -1,0 +1,21 @@
+#Siguiente {
+    background-color: rgb(9, 149, 114);
+    color:white;
+    text-align: center;
+}
+h1{
+    font-family:'Calibri';
+    color: black;
+    text-align: center;
+}
+h2{
+    font-family:'Calibri';
+    color: gray;
+    text-align: center;
+}
+section{
+    border: gray;
+    color: gray;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
